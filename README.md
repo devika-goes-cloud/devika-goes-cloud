@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devika-ghadage" target="blank"><img align="center" src="https://www.linkedin.com/in/devika-ghadage/" alt="devika ghadage" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devika-ghadage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devika ghadage" height="30" width="40" /></a>
 <a href="https://fb.com/devika g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devika g" height="30" width="40" /></a>
 </p>
 
