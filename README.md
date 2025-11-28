@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devika Ghadage</h1>
-<h3 align="center">A passionate DevOps Engineer| CI-CD & Cloud Enthusiast from India</h3>
+<h3 align="center">A passionate Cloud DevOps Engineer| CI-CD & Cloud Enthusiast from India</h3>
 
 
 💼 **About Me:**
 
-🎯 I’m a self-driven DevOps Engineer with 2 years of experience in automation and CI/CD pipelines.  
+🎯 I’m a self-driven DevOps Engineer with 2+ years of experience in automation and CI/CD pipelines.  
 📈 I build real-time DevOps pipelines and cloud-native applications — from development to production.  
 🚀 Currently mastering cloud-native DevOps
 
