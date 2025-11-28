@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **DevSecOps tools and best practices**
 
+- 👩🏻‍💻 I'm Preaparing for **AWS Solution Architect Associate-CO3**
+
 - 👨‍💻 All of my projects are available at [https://github.com/devika-goes-cloud](https://github.com/devika-goes-cloud)
 
 - 📫 How to reach me **devikaghadage@gmail.com**
